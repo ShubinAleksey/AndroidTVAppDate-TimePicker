@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MAD_Practice_20_Android_TV" parent="@style/Theme.Leanback" />
+</resources>
